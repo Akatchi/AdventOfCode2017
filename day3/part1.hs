@@ -1,4 +1,3 @@
---input = 265149
 input = 265149
 t = fnod input
 l = get_length t
